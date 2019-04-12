@@ -1,4 +1,6 @@
 
+new change`:wq
+`
 jjjjj`:wq
 
 Git is free software.Git is free software.Git is free software.Git is free software.
